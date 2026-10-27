@@ -1,0 +1,10 @@
+data/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+# 용량이 큰 중간 산출물은 재생성 가능하므로 제외
+outputs/tracks*.parquet
+outputs/events_v1_raw.parquet
+outputs/events.parquet
+outputs/context_samples.parquet
