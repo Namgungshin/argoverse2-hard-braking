@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
-plt.rcParams["font.family"] = ["AppleGothic", "DejaVu Sans"]
+plt.rcParams["font.family"] = ["AppleGothic", "NanumGothic", "DejaVu Sans"]
 plt.rcParams["axes.unicode_minus"] = False
 
 spec = importlib.util.spec_from_file_location("ex", "src/02_extract_events.py")

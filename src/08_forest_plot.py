@@ -14,7 +14,7 @@ import matplotlib.ticker as mt
 import numpy as np
 import pandas as pd
 
-plt.rcParams["font.family"] = ["AppleGothic", "DejaVu Sans"]
+plt.rcParams["font.family"] = ["AppleGothic", "NanumGothic", "DejaVu Sans"]
 plt.rcParams["axes.unicode_minus"] = False
 
 df = pd.read_csv("outputs/tables/context_logit.csv", index_col=0)
