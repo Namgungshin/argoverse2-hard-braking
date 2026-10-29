@@ -1,7 +1,6 @@
 # Argoverse 2 급감속(Hard Braking) 분석
 
 **자율주행 차량의 급정지는 어디서 일어나는가?** 
-Argoverse 2 정지 3,489건 분석
 
 ## 한눈에 보기
 
